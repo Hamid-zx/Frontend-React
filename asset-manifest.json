@@ -1,20 +1,26 @@
 {
   "files": {
     "main.css": "/Frontend-React/static/css/main.8604c873.css",
-    "main.js": "/Frontend-React/static/js/main.6df577d4.js",
+    "main.js": "/Frontend-React/static/js/main.4938e30b.js",
     "static/js/787.5380fe1e.chunk.js": "/Frontend-React/static/js/787.5380fe1e.chunk.js",
     "static/media/toy-bg4.jpg": "/Frontend-React/static/media/toy-bg4.68568673b2f51063bc73.jpg",
+    "static/media/toyslogo.png": "/Frontend-React/static/media/toyslogo.a318f9c92f56fe96d198.png",
+    "static/media/handbaglogo.png": "/Frontend-React/static/media/handbaglogo.4f48a284ac50a1ae250e.png",
     "static/media/Gift-bg2.jpg": "/Frontend-React/static/media/Gift-bg2.eea9f1f3229249b5ab99.jpg",
     "static/media/Watch-bg.jpg": "/Frontend-React/static/media/Watch-bg.e93f759b61aba8a138aa.jpg",
     "static/media/Toys-bg2.jpg": "/Frontend-React/static/media/Toys-bg2.14c5ae765123a300ca1c.jpg",
     "static/media/contactbg.jpg": "/Frontend-React/static/media/contactbg.967f3cf3179626aaf00c.jpg",
+    "static/media/watchlogo.png": "/Frontend-React/static/media/watchlogo.cc9894f6d3dd81aa3425.png",
+    "static/media/windows.png": "/Frontend-React/static/media/windows.31a4a48714da901d527b.png",
+    "static/media/Logo.png": "/Frontend-React/static/media/Logo.34549901902e02cc3f7f.png",
+    "static/media/androidlogo.png": "/Frontend-React/static/media/androidlogo.5f5273e83d1398e4ae91.png",
     "index.html": "/Frontend-React/index.html",
     "main.8604c873.css.map": "/Frontend-React/static/css/main.8604c873.css.map",
-    "main.6df577d4.js.map": "/Frontend-React/static/js/main.6df577d4.js.map",
+    "main.4938e30b.js.map": "/Frontend-React/static/js/main.4938e30b.js.map",
     "787.5380fe1e.chunk.js.map": "/Frontend-React/static/js/787.5380fe1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8604c873.css",
-    "static/js/main.6df577d4.js"
+    "static/js/main.4938e30b.js"
   ]
 }
